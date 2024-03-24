@@ -1,4 +1,24 @@
+body{
+    margin: 150px;
+}
 
 h1, h2 {
     color: firebrick;
+    text-align: center;
+}
+
+p, ul, ol {
+    background-color: rgb(200, 191, 231);
+    border-style: solid;
+}
+
+
+img {
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: firebrick;
+    border-image-width: 3px;
+    border-color: firebrick;
 }
